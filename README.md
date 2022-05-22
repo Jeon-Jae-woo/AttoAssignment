@@ -210,3 +210,5 @@
   - 2.7.0 version
 
 - gradle, java 8 사용
+
+- mybatis 사용
