@@ -197,3 +197,16 @@
 }
 ```
 
+# 제약 및 사항
+- DB
+  - DDL SQL 파일 경로
+    - src/main/resources/sqlFile/hostDDL.sql
+  - MariaDB
+    - 10.6.7
+  - ApplicationProperties
+    - 3307 PORT 및 DB User는 별도로 생성해서 사용
+
+- spring boot
+  - 2.7.0 version
+
+- gradle, java 8 사용
